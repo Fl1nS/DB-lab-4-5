@@ -1,0 +1,2 @@
+database:
+  uri: "mysql+pymysql://root:P5e#Y*+v3F1^#r6@localhost:3306/flightradar"
